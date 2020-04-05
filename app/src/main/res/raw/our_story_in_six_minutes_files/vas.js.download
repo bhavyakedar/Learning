@@ -1,0 +1,1 @@
+!function(){try{var i=+!(!document.visibilityState&&!document.webkitVisibilityState&&!document.mozVisibilityState||void 0===document.hidden&&void 0===document.webkitHidden&&void 0===document.mozHidden);(new Image).src="//obs.cheqzone.com/dc?ev=visapi&res="+i}catch(i){}}();
